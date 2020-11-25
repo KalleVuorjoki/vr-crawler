@@ -1,3 +1,5 @@
 {
-  "baseUrl": "https://shop.vr.fi/onlineshop/"
+  "baseUrl": "https://shop.vr.fi/onlineshop/",
+  "trashAssetsBeforeRuns": false,
+  "screenshotOnRunFailure": false
 }
